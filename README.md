@@ -1,6 +1,6 @@
 # Introduction-to-DataScience-Project
 This project  is part of the DataScience NanoDegree.
-Analysis of the Boston and Seattle Airbnb Open Data
+Analysis of the Boston and Seattle Airbnb Open Data.
 Link to the Article in Medium [You need to look this before your vacation!](https://medium.com/p/1d57ec7a02ef/edit)
 
 Installation
