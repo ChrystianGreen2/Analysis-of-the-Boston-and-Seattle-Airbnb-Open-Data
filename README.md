@@ -27,5 +27,15 @@ The data used in **Part I** and **Part II** is from [Kaggle Seattle Airbnb Open 
 
 The data used in **Part III** is only from [Kaggle Boston Airbnb Open Data](https://www.kaggle.com/airbnb/boston?select=listings.csv)
 
-
-the files in the repository with a small description of each, a summary of the results of the analysis, and necessary acknowledgements
+Files
+-----
+~~~~~~~~~~~~
+- Boston_seattle_opendata_analysis.ipynb -> The notebook
+- listings.csv -> listings of Boston Dataset
+- listings_2.csv -> listings of Seattle Dataset
+- cheap_overview.png -> Overview of houses with a value below 200USD
+- general_overview.png -> General Overview of houses
+- positive_words.png -> positive keywords of the reviews data
+- negative_words.png -> negative keywords of the reviews data
+- reviews.csv -> Boston reviews daa
+~~~~~~~~~~~~
