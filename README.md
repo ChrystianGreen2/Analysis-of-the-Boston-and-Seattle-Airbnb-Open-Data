@@ -1,4 +1,4 @@
-# Introduction-to-DataScience-Project
+# Udacity DataScience Project
 This project  is part of the DataScience NanoDegree.
 Analysis of the Boston and Seattle Airbnb Open Data.
 
