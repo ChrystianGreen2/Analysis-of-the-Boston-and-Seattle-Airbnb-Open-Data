@@ -44,6 +44,8 @@ Files
 
 Results
 -------
-1 - There is no silver bullet to say if a place is perfect, it is necessary to analyze several factors, usually the price is the biggest one
-2 - If a location have reviews, is possible to use sentimenty analysis to see the strengths and weaknesses of that place
-3 - Is not possible to have a 100% accuracy prediction if a place good or not, but is possible to have good estimatives
+1 - There is no silver bullet to say if a place is perfect, it is necessary to analyze several factors, usually the price is the biggest one.
+
+2 - If a location have reviews, is possible to use sentimenty analysis to see the strengths and weaknesses of that place.
+
+3 - Is not possible to have a 100% accuracy prediction if a place good or not, but is possible to have good estimatives.
